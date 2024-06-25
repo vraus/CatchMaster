@@ -5,11 +5,27 @@
 >
 > ***Date**: 30/06/2024*
 >
-> ***Engine & Version**: Unreal Engine 5.3*
+> ***Engine & Version**: [Unreal Engine 5.3](https://www.unrealengine.com/en-US/download)*
+
+# Table of Contents
+
+- [Introduction](#introduction)
+- [Concept](#concept)
+- [Fonctionnalités Minimum](#fonctionnalités-minimum)
+- [Tâches pour la semaine](#tâches-pour-la-semaine)
+  - [Semaine 1](#semaine-1)
+    - [Objectif](#objectif)
+- [Organisation du travail](#organisation-du-travail)
+  - [Création du projet](#création-du-projet)
+  - [Gestion du projet](#gestion-du-projet)
+    - [Organisation des tickets](#organisation-des-tickets)
+
+Introduction
+Bienvenue dans le projet CatchMaster! Ce document te guidera à travers le concept du jeu, les fonctionnalités prévues, et la façon d'organiser le travail. J'espère que ce projet te motivera à faire du Unreal et à développer d'autres jeux après !
 
 ## Concept
 
-Dans ce jeu, le joueur contrôle un panier qui se déplace de gauche à droite en bas de l'écran. Des objets tombent du haut de l'écran à des vitesses variées, et le but est de positionner le panier sous ces objets pour les attraper. Chaque objet attrapé rapporte des points, avec des objets spéciaux offrant des bonus supplémentaires. La difficulté augmente progressivement avec la vitesse et la fréquence des chutes d'objets, mettant à l'épreuve les réflexes et la précision du joueur.
+Dans ce jeu, tu contrôles un panier qui se déplace de gauche à droite en bas de l'écran. Des objets tombent du haut de l'écran à des vitesses variées, et le but est de positionner le panier sous ces objets pour les attraper. Chaque objet attrapé rapporte des points, avec des objets spéciaux offrant des bonus supplémentaires. La difficulté augmente progressivement avec la vitesse et la fréquence des chutes d'objets, mettant à l'épreuve tes réflexes et ta précision.
 
 ## Fonctionnalités Minimum
 
@@ -48,11 +64,11 @@ Voici des idées pour se lancer (optionnelles):
 
 1. **Créer l'objet panier :**
    - Dessiner ou importer un simple sprite représentant le panier.
-2. **Implémenter le déplacement du panier :**
+1. **Implémenter le déplacement du panier :**
    - Ajouter des contrôles pour déplacer le panier de gauche à droite.
      - Pour clavier : utiliser les touches fléchées gauche et droite.
      - Pour écran tactile : implémenter le glissement horizontal.
-3. **Définir les limites de déplacement :**
+1. **Définir les limites de déplacement :**
    - Empêcher le panier de sortir des limites de l'écran.
 
 #### Objectif :
