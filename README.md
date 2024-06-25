@@ -36,7 +36,10 @@ Dans ce jeu, le joueur contrôle un panier qui se déplace de gauche à droite e
 
 ## Tâches pour la semaine
 
-### Première semaine
+### Semaine 1
+
+> *30 juin 2024 - 7 juillet 2024*
+> *Faut quand même aller voter*
 
 La première tâche à développer pour ce jeu serait de **implémenter les contrôles du panier**. Cela constitue la base de l'interaction du joueur avec le jeu et est essentiel pour tester et affiner les autres fonctionnalités.
 
@@ -55,3 +58,30 @@ Voici des idées pour se lancer (optionnelles):
 - Avoir un panier qui peut être déplacé par le joueur de manière fluide et réactive, respectant les limites de l'écran.
 
 ## Organisation du travail
+
+> Ce n'est pas obligatoire de faire comme ça mais c'est juste une bonne habitude à prendre je pense surtout pour préparer l'année prochaine.
+
+### Gestion du projet
+
+Faire une gestion de projet classique avec l'outil de projet GitHub. 
+Organisation des colonnes du Kanban:
++ Backlog
+   + Contient la liste total de tous les tickets du projet qui ne sont pas lancés
++ A faire
+   + Les tickets qui sont à faire en priorité pour une première version du projet
++ En cours
+   + Les tickets en cours
++ Bloqué
+   + Les tickets qui ne peuvent plus être avancé. Il faut finir un autre ticket ou en créer un pour débloquer celui-ci 
++ Validation
+   + Les tickets qui sont vraisemblablement finis
++ Fini
+   + Les tickets finis
+
+#### Organisation des tickets
+
++ Créer un label de catégorie pour les tickets.
+   + Pour différencier les tickets concernant le Gameplay, le 3C, les animations, l'UI, l'enviro etc...
++ Créer un label de ticket pour les bugs
+   + Pour permettre de spécifier qu'un ticket est un bug trouvé dans le projet concernant un élément de Gemaplaye ou autre.
++ Utilisation des autres catégories préexistante pour se donner une idée de la quantité de travail et de la difficulté de la tâche.
