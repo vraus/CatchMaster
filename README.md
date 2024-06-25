@@ -39,7 +39,8 @@ Dans ce jeu, le joueur contrôle un panier qui se déplace de gauche à droite e
 ### Semaine 1
 
 > *30 juin 2024 - 7 juillet 2024*
-> *Faut quand même aller voter*
+> 
+> *Faut quand même aller voter!*
 
 La première tâche à développer pour ce jeu serait de **implémenter les contrôles du panier**. Cela constitue la base de l'interaction du joueur avec le jeu et est essentiel pour tester et affiner les autres fonctionnalités.
 
@@ -59,9 +60,28 @@ Voici des idées pour se lancer (optionnelles):
 
 ## Organisation du travail
 
-> Ce n'est pas obligatoire de faire comme ça mais c'est juste une bonne habitude à prendre je pense surtout pour préparer l'année prochaine.
+### Création du projet
+
+> **Important**
+
+- Commencer par **cloner** ce dépo pour l'avoir localement.
+- **Créer un dossier** `Game/` où tu mettras le projet Unreal.
+- **Modifier** le fichier `.gitignore` pour y ajouter à toutes les lignes le chemin correct.
+   - C'est à dire ajouter `Game/` pour retarget correctement le `.gitignore`.
+- **Commit** / **Push** le nouveau `.gitignore`
+- Lancer le moteur dans sa **version 5.3.2**.
+- **Paramètres par défaut** du projet:
+   - **C++**
+   - Target Platform: **Desktop**
+   - Quality Preset: **Scalable**
+   - **No** Starter Content
+   - **No** Raytracing
+   - Ils peuvent être ajouter plus tard au besoin de toute façon.
+- Créer le projet dans le dossier `Game/` créé préalablement.
 
 ### Gestion du projet
+
+> Ce n'est pas obligatoire de faire comme ça mais c'est juste une bonne habitude à prendre je pense surtout pour préparer l'année prochaine.
 
 Faire une gestion de projet classique avec l'outil de projet GitHub. 
 Organisation des colonnes du Kanban:
