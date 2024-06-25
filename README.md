@@ -7,7 +7,7 @@
 >
 > ***Engine & Version**: [Unreal Engine 5.3](https://www.unrealengine.com/en-US/download)*
 
-# Table of Contents
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Concept](#concept)
@@ -20,7 +20,7 @@
   - [Gestion du projet](#gestion-du-projet)
     - [Organisation des tickets](#organisation-des-tickets)
 
-Introduction
+## Introduction
 Bienvenue dans le projet CatchMaster! Ce document te guidera à travers le concept du jeu, les fonctionnalités prévues, et la façon d'organiser le travail. J'espère que ce projet te motivera à faire du Unreal et à développer d'autres jeux après !
 
 ## Concept
