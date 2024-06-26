@@ -47,6 +47,7 @@ Dans ce jeu, tu contrôles un panier qui se déplace de gauche à droite en bas 
    - Inclusion d'objets bonus avec des effets spéciaux (ex. : double points, ralentissement du temps).
 1. **Effets Sonores :**
    - Effets sonores pour les objets attrapés et autres actions importantes.
+   - Musique du jeu pour le menu et pour la scène de jeu.
 1. **Interface Utilisateur Simple :**
    - Menu principal avec options de démarrage du jeu et d'accès aux réglages.
 1. **Animations Fluides :**
