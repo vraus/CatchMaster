@@ -111,7 +111,7 @@ Organisation des colonnes du Kanban:
 + Backlog
    + Contient la liste total de tous les tickets du projet qui ne sont pas lancés
 + A faire
-   + Les tickets qui sont à faire en priorité pour une première version du projet
+   + Les tickets qui sont à faire pour accomplir l'objectif court terme (semaine ou plus)
 + En cours
    + Les tickets en cours
 + Bloqué
