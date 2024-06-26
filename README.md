@@ -33,6 +33,8 @@ Dans ce jeu, tu contrôles un panier qui se déplace de gauche à droite en bas 
    - Déplacement du panier de gauche à droite à l'aide des touches fléchées ou du glissement sur l'écran tactile.
 1. **Objets Tombants :**
    - Génération aléatoire d'objets qui tombent du haut de l'écran.
+1. **Assets :**
+   - Trouver des assets sympa pour créer un environnement cohérent entre le panier, le décor et les objets.
 1. **Système de Points :**
    - Attribution de points pour chaque objet attrapé.
 1. **Niveaux de Difficulté Croissante :**
