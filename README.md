@@ -55,6 +55,10 @@ Dans ce jeu, tu contrôles un panier qui se déplace de gauche à droite en bas 
 
 ## Tâches pour la semaine
 
+> *A titre informatif. Juste histoire d'avoir un objectif court-terme. Tu peux modifier ça rajouter / enlever des tâches ou rajouter une semaine à ta convenance.*
+>
+> *Cela permet également de ne pas perdre de vue les objectifs*
+
 ### Semaine 1
 
 > *30 juin 2024 - 7 juillet 2024*
