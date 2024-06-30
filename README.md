@@ -88,9 +88,9 @@ Voici des idées pour se lancer (optionnelles):
 > **Important**
 
 - Commencer par **cloner** ce dépo pour l'avoir localement.
-- **Créer un dossier** `Game/` où tu mettras le projet Unreal.
 - **Modifier** le fichier `.gitignore` pour y ajouter à toutes les lignes le chemin correct.
-   - C'est à dire ajouter `Game/` pour retarget correctement le `.gitignore`.
+   - C'est à dire ajouter `Game/` (ou le nom du projet) pour retarget correctement le `.gitignore`.
+- **Créer le projet Unreal** nommé `Game/` (ou autre) à la racine du clone de ce dépo.
 - **Commit** / **Push** le nouveau `.gitignore`
 - Lancer le moteur dans sa **version 5.3.2**.
 - **Paramètres par défaut** du projet:
